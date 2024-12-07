@@ -1,0 +1,116 @@
+p {
+    font-size: 25px;
+    text-align: center;
+    color:white;
+}
+
+.m {
+    font-size:40px;
+    text-align: center;
+    color:white;
+}
+
+.ph {
+    background-color:  #D6FF6B;
+    border-radius: 15px;
+    width:500px;
+    height:300px;
+    margin-left:375px;
+    margin-top:15px;
+}
+
+img {
+    width: 470px;
+    height:270px;
+    margin: 15px;
+    border-radius: 15px;
+}
+
+.n {
+    text-align:center;
+    font-size:75px;
+}
+
+body {
+    background-color: #212F4D;
+}
+
+.list {
+    margin-left: 25px;
+    width:1200px;
+    height:179px;
+    background-color: #5988FF;
+    border-radius: 25px;
+}
+
+h1 {
+    color:white;
+}
+
+.p {
+    width:1200px;
+    background-color:#5988FF ;
+    border-radius: 15px;
+    margin-left: 25px;
+}
+
+.omg {
+    width: 1250px;
+    height:1050px;
+    background-color: #FD98FB;
+    margin-left: 360px;
+    border-radius: 15px;
+}
+
+a {
+    text-decoration:none ;
+}
+
+@keyframes color-change {
+    0% {
+      color: rgb(2, 46, 2);
+    }
+  
+    50% {
+      color: rgb(62, 122, 10);
+    }
+  
+    100% {
+      color: rgb(107, 255, 48);
+    }
+}
+
+.try:hover  {
+    animation: color-change 3s infinite;
+}
+
+.tri:hover  {
+    font-size:50px;
+}
+
+.two {
+    background-color:white;
+}
+
+h1 {
+    color:black
+}
+
+.cube {
+    width:60px;
+    height:25px;
+    background-color: #D6FF6B;
+    border-radius: 15px;
+    margin-left: 580px;
+}
+
+a {
+    text-align: center;
+    margin:4px;
+    margin-top: 8px;
+}
+
+.weather {
+    margin-left:430px;
+    margin-top:18px;
+}
